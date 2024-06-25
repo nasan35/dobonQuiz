@@ -4,11 +4,11 @@
 }
 
 .title {
-  font-size: 50px;
+  font-size: 45px;
 }
 
 .question {
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .options-grid {
@@ -16,8 +16,8 @@
 }
 
 .option-button {
-  width: 250px;
-  height: 100px;
+  width: 210px;
+  height: 70px;
   margin: 10px;
   font-size: 40px;
   border: none;
