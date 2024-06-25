@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dobonQuiz/static/css/main.d802dcd8.css",
+    "main.css": "/dobonQuiz/static/css/main.c8a5386c.css",
     "main.js": "/dobonQuiz/static/js/main.ffa29988.js",
     "index.html": "/dobonQuiz/index.html",
-    "main.d802dcd8.css.map": "/dobonQuiz/static/css/main.d802dcd8.css.map",
+    "main.c8a5386c.css.map": "/dobonQuiz/static/css/main.c8a5386c.css.map",
     "main.ffa29988.js.map": "/dobonQuiz/static/js/main.ffa29988.js.map"
   },
   "entrypoints": [
-    "static/css/main.d802dcd8.css",
+    "static/css/main.c8a5386c.css",
     "static/js/main.ffa29988.js"
   ]
 }
